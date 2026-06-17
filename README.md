@@ -83,11 +83,6 @@ df.duplicated(subset=["candidate_id"]).sum()
 
 ## How to Run
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 Run the analytics script:
 
